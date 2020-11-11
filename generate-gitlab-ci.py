@@ -3,6 +3,8 @@ import json
 SERVICES = (
     "foo",
     "bar",
+    "serice_a",
+    "serice_b",
 )
 
 def make_service(name):
